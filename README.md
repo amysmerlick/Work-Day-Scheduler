@@ -12,7 +12,8 @@ Open index.html in Chrome
 
 ***
 ### __Screenshot__
-![Work-Day-Scheduler](https://user-images.githubusercontent.com/77814900/111086346-01ad0380-84f2-11eb-9d56-e30e0019e785.png)
+![Work-Day-Scheduler](https://user-images.githubusercontent.com/77814900/113458466-556b8800-93e0-11eb-824d-91b4540e028f.png)
+
 
 ***
 ### __Credits__
@@ -30,7 +31,7 @@ Open index.html in Chrome
 This project has been deployed and is live on GitHub. Click the links below.
 
 -  [Amy Smerlick GitHub Repository](https://github.com/amysmerlick)
--   [Javascript Quiz](https://amysmerlick.github.io/Javascript-Quiz/)
+-   [Javascript Quiz](https://amysmerlick.github.io/Work-Day-Scheduler/)
 
 ***
 ### __License__
